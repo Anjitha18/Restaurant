@@ -33,9 +33,7 @@
 .fel1,.fel2,.fel3,.fel4,.fel5,.fel6,.fel7{
     padding-left:10px;
 }
-.con2,.con2,.con3,.con4{
-    padding-left: 10px;
-}
+
 .inside{
     font-style:italic;
     width:90%;
@@ -64,6 +62,9 @@
     position: absolute;
     top:70%;
     overflow:scroll;
+}
+.con2,.con2,.con3,.con4{
+    padding-left: 10px;
 }
 .el1{
     padding-left: 12px;

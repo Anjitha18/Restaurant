@@ -31,6 +31,34 @@
     padding:2% 6%;
     background: rgba(63, 63, 63,0.3);
 }
+.items>li{
+    list-style: none;
+    padding: 5px 4px;
+}
+.Menu{
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 7px;
+    padding-right: 7px;
+    background-color: rgb(51, 51, 51);
+    border: none;
+    color:White;
+    
+}
+.fel1 .items{
+    display: none;
+    min-width: 100px;
+    background-color: rgb(175, 173, 173);
+    color:black;
+}
+.fel1:hover .items{
+    display: block;
+    background-color: white;
+    position:absolute;
+}
+.items li:hover{
+    background-color: rgb(192, 191, 191);
+}
 .fel1,.fel2,.fel3,.fel4,.fel5,.fel6,.fel7{
     padding-left:10px;
 }

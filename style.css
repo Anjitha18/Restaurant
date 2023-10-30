@@ -33,6 +33,9 @@
     flex-wrap: wrap;
     align-items: baseline;
 }
+.foot1 div:hover{
+    border-bottom: 5px solid hsl(39, 97%, 47%);
+}
 .items>li{
     list-style: none;
     padding: 5px 4px;

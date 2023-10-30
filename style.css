@@ -34,7 +34,7 @@
     align-items: baseline;
 }
 .foot1 div:hover{
-    border-bottom: 5px solid hsl(39, 97%, 47%);
+    border-bottom: 5px solid orange;
 }
 .items>li{
     list-style: none;

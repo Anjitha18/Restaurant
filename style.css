@@ -93,6 +93,7 @@
     position: absolute;
     top:70%;
     overflow:scroll;
+    row-gap: 20px;
 }
 .con1,.con2,.con3,.con4{
     width:20%;

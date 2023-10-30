@@ -74,6 +74,8 @@
     position:absolute;
     transform: translate(-50%,-50%);
     text-align: center;
+    animation-name: slideLeft;
+    animation-duration: 2s;
 }
 .hed2{
     font-style: normal;
@@ -119,4 +121,9 @@
 }
 .el3::before{
     content: "📌";
+}
+@keyframes slideLeft{
+    from{
+        transform: translateX(200%);
+    }
 }

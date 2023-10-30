@@ -94,8 +94,12 @@
     top:70%;
     overflow:scroll;
 }
-.con2,.con2,.con3,.con4{
-    padding-left: 10px;
+.con1,.con2,.con3,.con4{
+    width:25%;
+}
+.footer p{
+    text-wrap: wrap;
+    text-align: center;
 }
 .el1{
     padding-left: 12px;
